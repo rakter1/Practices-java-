@@ -1,0 +1,11 @@
+
+Static Vs Non-Static method ----
+
+	1) Instance variable can not be used in static method. 
+	but we can use static variable and Instance variable in non-static method.
+	2) Our Test Automation point of view two difference are important` 
+	
+	3) static method and Non-Static method can be called in Non-Static method.
+	
+	4) but static method can only be called in Static method. we can not call non static
+	method in static method.
